@@ -1,6 +1,7 @@
 ![Header](./pfp.png)
 # 💫 About Me:
-🔭 I’m currently working on a project called FontChanger<br>🌱 I’m currently learning Ruby, C++ and C#<br>💬 Ask me about code debugging
+🔭 I’m currently working on a project called FontChanger<br>🌱 I’m currently learning Ruby, C++ and C#<br>💬 Ask me about code debugging<br>
+🌐 Check out my site: https://chudnovsky.neocities.org/
 
 
 ## 🌐 Socials:
