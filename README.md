@@ -21,6 +21,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ArianDJ&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![]([https://visitcount.itsvg.in/api?id=ArianDJ&icon=5&color=12](https://profile-counter.glitch.me/ArianDJ/count.svg))](https://visitcount.itsvg.in)
